@@ -17,7 +17,7 @@
       "com.kak7.kak7util.client.TriggerBotClient"
     ],
     "main": [
-      "com.kak7.kak7util.Util"
+      "com.kak7.kak7util.Main"
     ]
   },
   "mixins": [

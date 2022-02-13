@@ -29,16 +29,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="tb-18" type="f1a62948:ProjectNode" />
+                <item name="tb-1.18" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="tb-18" type="f1a62948:ProjectNode" />
+                <item name="tb-1.18" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="tb-18" type="f1a62948:ProjectNode" />
+                <item name="tb-1.18" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
@@ -56,6 +56,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -71,11 +82,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kaks\Documents\GitHub\tb-1.18\run\mods" />
       <recent name="C:\Users\kaks\Documents\GitHub\tb-18\src\main\resources" />
       <recent name="C:\Users\kaks\Documents\GitHub\tb-18\run\mods" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Minecraft Client">
+  <component name="RunManager" selected="Gradle.tb-18 [build]">
     <configuration name="TriggerBot build" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" value="TriggerBot build" />
@@ -139,6 +151,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Minecraft Client" />
+      <item itemvalue="Application.Minecraft Server" />
+      <item itemvalue="Gradle.TriggerBot build" />
+      <item itemvalue="Gradle.tb-18 [build]" />
+      <item itemvalue="Gradle.tb-18 [clean]" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.tb-18 [build]" />
@@ -155,6 +174,9 @@
       <option name="presentableId" value="Default" />
       <updated>1644499334226</updated>
       <workItem from="1644499336067" duration="11757000" />
+      <workItem from="1644530926996" duration="881000" />
+      <workItem from="1644701347570" duration="5078000" />
+      <workItem from="1644719307217" duration="7630000" />
     </task>
     <servers />
   </component>
