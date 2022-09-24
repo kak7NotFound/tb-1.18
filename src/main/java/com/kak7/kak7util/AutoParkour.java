@@ -35,10 +35,11 @@ public class AutoParkour {
     MinecraftClient mc = MinecraftClient.getInstance();
 
     public void onUpdate() {
-        if (!mc.player.isOnGround() || mc.options.keyJump.isPressed())
+        var jk = mc.options.jumpKey;
+        if (!mc.player.isOnGround() || jk.isPressed())
             return;
 
-        if (mc.player.isSneaking() || mc.options.keySneak.isPressed())
+        if (mc.player.isSneaking() || jk.isPressed())
             return;
 
         Box box = mc.player.getBoundingBox();
